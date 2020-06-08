@@ -1,6 +1,5 @@
 
 ### Identity
-
 -----------------------------
 
 Blablabla
@@ -9,7 +8,6 @@ Blablabla
 
 
 ### Projects
-
 -----------------------------
 
 > #### Projects created during the **[Pop-Machina Academy](https://pop-machina.eu/academy)**
@@ -28,7 +26,6 @@ Blablabla
 > 
 
 ### Contact
-
 -----------------------------
 #### Reach Metta-Machina
 
