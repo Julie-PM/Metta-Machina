@@ -29,7 +29,6 @@ To reach out to Metta-Machina, you can use the old fashion project light
 or simply complete the contact form below:
 
 
-<!DOCTYPE html>
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -66,7 +65,6 @@ or simply complete the contact form below:
    </div>
 </div>
 </body>
-</html>
 
 -----------------------------
 
