@@ -22,10 +22,21 @@ Blablabla
 
 -----------------------------
 
-To reach out to Metta-Machina, you can use the old fashion project light 
+To reach out to Metta-Machina, you can use the old fashion project light
+
 ![The Bat Signal](bat-signal.png)
-or simply send fill the contact form below:
-<input type="text" id="name" name="name"/>
+
+or simply complete the contact form below:
+<!-- Edit markdown here! -->
+<textarea class="mdhtmlform-md">## Write markdown in the textarea!</textarea>
+<br /><br />
+
+<!-- Display converted html here! -->
+<div class="mdhtmlform-html"></div>
+<br /><br />
+
+<!-- And insert converted html for submission here. -->
+<textarea class="mdhtmlform-html" style="display: none;"></textarea>
 
 
 
