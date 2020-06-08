@@ -18,7 +18,14 @@ Blablabla
 > - Project 2
 >
 
+### Contact
 
+-----------------------------
+
+To reach out to Metta-Machina, you can use the old fashion project light 
+![The Bat Signal](bat-signal.png)
+or simply send fill the contact form below:
+<input type="text" id="name" name="name"/>
 
 
 
