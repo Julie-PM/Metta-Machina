@@ -24,7 +24,7 @@ Blablabla
 > - Project 2 (Coming soon)
 >
 
-> #### Other Projects available on my **[professional website](https://juliemetta.net/)**
+> #### Other projects available on my **[professional website](https://juliemetta.net/)**
 > 
 
 ### Contact
