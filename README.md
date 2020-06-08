@@ -65,10 +65,10 @@ or simply complete the contact form below:
 </div>
 </body>
 
-#### Join the Pop-Machina Network of Interest
+#### Join the **[Pop-Machina](https://pop-machina.eu/)** Network of Interest
 The so-called Pop-Machina Network of Interest aims to be such a positive community of change. It aspires to connect people from all over Europe and beyond to one another, keep them informed of innovations that hold a great potential to change our production and consumption patterns for the better as well as provide citizens with a platform where they can voice their opinions and ideas as well. At its core, Pop-Machina Network of Interest brings together all the enthusiasts that want to follow the progress of the project, stay up to date with the related topics and trends more broadly and contribute to the discussions on the various issues related to the maker movement and circular economy, including on the challenges and opportunities of circular maker communities.
 
-Sign up to Pop-Machina Network of Interest to:
+Sign up to [Pop-Machina Network of Interest](https://pop-machina.eu/Network-of-Interest) to:
 - receive a biannual newsletter with many interesting news on Pop-Machina and more;
 - connect with likeminded individuals and organisations;
 participate in discussions on the various issues related to the maker movement and circular economy, including on the challenges that maker communities face and how to best overcome them;
