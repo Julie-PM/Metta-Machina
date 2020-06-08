@@ -104,7 +104,7 @@ Sign up to [Pop-Machina Network of Interest](https://pop-machina.eu/Network-of-I
 
 -----------------------------
 -----------------------------
-
+ <img src="PMEU.PNG" alt="Pop-Machina Logo" width="800" height="100">
 ![Pop-Machina Logo](PMEU.PNG)
 
 ###### <em>**[Pop-Machina](https://pop-machina.eu/)** is a Horizon 2020 project that seeks to highlight and reinforce the links between the maker movement and circular economy in order to promote environmental sustainability and generate socio-economic benefits in European cities. This project has received funding from the European Union’s Horizon 2020 Research and Innovation Programme under grant agreement No 821479”.</em>
