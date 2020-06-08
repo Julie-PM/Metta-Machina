@@ -14,9 +14,18 @@ Blablabla
 
 > #### Projects created during the **[Pop-Machina Academy](https://pop-machina.eu/academy)**
 > 
-> - Project 1
-> - Project 2
+> - Project 1 (Coming soon)
+> - Project 2 (Coming soon)
 >
+
+> #### Projects created for the **[City of Leuven](https://pop-machina.eu/pilots/leuven)**
+> 
+> - Project 1 (Coming soon)
+> - Project 2 (Coming soon)
+>
+
+> #### Other Projects available on my **[professional website](https://juliemetta.net/)**
+> 
 
 ### Contact
 
