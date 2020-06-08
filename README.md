@@ -2,9 +2,7 @@
 ### Identity
 -----------------------------
 
-<iframe width="560" height="315" src="https://www.facebook.com/wu.sfo/videos/554757271899292/?q=wetenschap%20uitgedokterd%20%2F%20science%20figured%20out&epa=SEARCH_BOX" frameborder="0" allowfullscreen></iframe>
-
-
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fwu.sfo%2Fvideos%2F554757271899292%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 
 ### Projects
