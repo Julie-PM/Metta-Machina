@@ -23,6 +23,10 @@
 > #### Other projects available on my **[professional website](https://juliemetta.net/)**
 > 
 
+### Pop-Machina related publications
+-----------------------------
+- Pop-Machina: The breakthrough of the circular maker movement in Europe” (with K. Bachus), 2020, OpenAccessGovernment ISSN 2516-3817 April 2020 (p450-451). [(Available online)](https://www.openaccessgovernment.org/pop-machina-circular-maker-movement-in-europe/84803/)
+
 ### Contact
 -----------------------------
 #### Reach Metta-Machina
