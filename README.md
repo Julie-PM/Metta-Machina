@@ -28,7 +28,7 @@
 #### Reach Metta-Machina
 
 To reach out to Metta-Machina, you can use the old fashion project light
-
+ <img src="bat-signal.png" alt="Bat Signal test" width="200" height="80">
 ![The Bat Signal](bat-signal.png)
 
 or simply complete the contact form below:
