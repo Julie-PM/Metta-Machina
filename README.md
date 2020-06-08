@@ -84,11 +84,11 @@ Sign up to [Pop-Machina Network of Interest](https://pop-machina.eu/Network-of-I
     <title>contact form</title>
 </head>
 <body>
-<link href="contact-form.css" rel="stylesheet">
+<link href="contact-form2.css" rel="stylesheet">
 <div class="fcf-body">
     <div id="fcf-form">
     <h5 class="fcf-h3">Join the Network</h5>
-    <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php">
+    <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process2.php">
        <div class="fcf-form-group">
             <label for="Email" class="fcf-label">Your email address</label>
             <div class="fcf-input-group">
