@@ -80,7 +80,7 @@ The so-called Pop-Machina Network of Interest aims to be such a positive communi
 Sign up to [Pop-Machina Network of Interest](https://pop-machina.eu/Network-of-Interest) to:
 - receive a biannual newsletter with many interesting news on Pop-Machina and more;
 - connect with likeminded individuals and organisations;
-participate in discussions on the various issues related to the maker movement and circular economy, including on the challenges that maker communities face and how to best overcome them;
+- participate in discussions on the various issues related to the maker movement and circular economy, including on the challenges that maker communities face and how to best overcome them;
 - participate in the learning workshop (will be organised later on in the project).
 
 <head>
