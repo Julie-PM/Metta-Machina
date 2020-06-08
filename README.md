@@ -64,9 +64,6 @@ or simply complete the contact form below:
         <div class="fcf-form-group">
             <button type="submit" id="fcf-button" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block">Send Message</button>
         </div>
-        <div class="fcf-credit" id="fcf-credit">
-            <a href="https://www.freecontactform.com/form-guides/html-email-form" target="_blank">HTML Email Form</a> from FreeContactForm.com
-        </div>
     </form>
     </div>
 </div>
