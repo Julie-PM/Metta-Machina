@@ -1,9 +1,3 @@
 theme: jekyll-theme-slate
 title: Metta-Machina
 description: Welcome to the repository of Metta-Machina, one of the 5 Maker Champions of the City of Leuven
-footer: Pop-Machina is a Horizon 2020 project that seeks to highlight and reinforce the links between the maker movement and circular economy in order to promote environmental sustainability and generate socio-economic benefits in European cities.
-diclaimer: This project has received funding from the European Union’s Horizon 2020 Research and Innovation Programme under grant agreement No 821479”. Disclaimer notice - The contents of this website reflect the view of the one of the Maker Champion. The views expressed in the website do not necessarily reflect the views of the Pop-Machina consortium neither to Euorpean Commision.
-contact_links:
-  - name: Questions, Ideas, Discussions
-    url: https://github.com/slatedocs/slate/discussions
-    about: Ask and answer questions, and propose new features.
