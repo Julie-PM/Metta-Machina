@@ -1,4 +1,10 @@
-
+<div id="titleBar">
+ <a href="###header" class="toggle">
+ ::before
+ </a>
+ <span class="title"><a href="###">Metta Machina</a></span>
+ </div>
+ 
 ### Identity
 -----------------------------
 
