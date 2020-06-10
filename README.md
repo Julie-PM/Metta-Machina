@@ -9,35 +9,35 @@
       </div>
       <ul class="nav flex-column bg-white mb-0">
         <li class="nav-item">
-          <a href="###Identity" class="nav-link text-dark font-italic bg-light">
+          <a href="### Identity" class="nav-link text-dark font-italic bg-light">
             <i class="fa fa-th-large mr-3 text-primary fa-fw"></i> Identity
           </a>
         </li>
         <li class="nav-item">
-          <a href="###Projects" class="nav-link text-dark font-italic">
+          <a href="### Projects" class="nav-link text-dark font-italic">
             <i class="fa fa-address-card mr-3 text-primary fa-fw"></i> Projects
           </a>
         </li>
 	 <li class="nav-item">
-          <a href="###Pop-Machina related publications" class="nav-link text-dark font-italic">
+          <a href="### Pop-Machina related publications" class="nav-link text-dark font-italic">
             <i class="fa fa-address-card mr-3 text-primary fa-fw"></i> Pop-Machina related publications
           </a>
         </li>
 	       <li class="nav-item">
-          <a href="###Contact" class="nav-link text-dark font-italic">
+          <a href="### Contact" class="nav-link text-dark font-italic">
             <i class="fa fa-address-card mr-3 text-primary fa-fw"></i> Contact
           </a>
         </li>
       </ul>
     </div>
     
-###Identity
+### Identity
 -----------------------------
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fwu.sfo%2Fvideos%2F554757271899292%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 
-###Projects
+### Projects
 -----------------------------
 
 > #### Projects created during the **[Pop-Machina Academy](https://pop-machina.eu/academy)**
@@ -55,11 +55,11 @@
 > #### Other projects available on my **[professional website](https://juliemetta.net/)**
 > 
 
-###Pop-Machina related publications
+### Pop-Machina related publications
 -----------------------------
 - Pop-Machina: The breakthrough of the circular maker movement in Europe” (with K. Bachus), 2020, OpenAccessGovernment ISSN 2516-3817 April 2020 (p450-451). [(Available online)](https://www.openaccessgovernment.org/pop-machina-circular-maker-movement-in-europe/84803/)
 
-###Contact
+### Contact
 -----------------------------
 #### Reach Metta-Machina
 
