@@ -32,9 +32,7 @@
 #### Reach Metta-Machina
 
 To reach out to Metta-Machina, you can use the old fashion project light
- <img src="bat-signal.png" alt="Bat Signal test" width="300" height="200">
-
-<a href="mailto:julie.metta@kuleuven.be" class="icon solid fa-envelope" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><span class="label">Email</span></a>
+ <img src="bat-signal.png" href="mailto:julie.metta@kuleuven.be" alt="Bat Signal test" width="300" height="200">
 
 or simply complete the contact form below:
 <head>
