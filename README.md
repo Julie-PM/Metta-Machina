@@ -1,10 +1,16 @@
-<div id="titleBar">
- <a href="###header" class="toggle">
- ::before
- </a>
- <span class="title"><a href="###">Metta Machina</a></span>
- </div>
- 
+<body class="header visible">
+ <section id="header">
+  <nav id="nav">
+					<ul>
+						<li><a href="### Identity" class="scrolly active" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Indentity</a></li>
+						<li><a href="### Projects" class="scrolly" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Projects</a></li>
+      <li><a href="### Pop-Machina related publications" class="scrolly" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Pop-Machina related publications</a></li>
+						<li><a href="### Contact" class="scrolly" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Contact</a></li>
+					</ul>
+				</nav>
+</section>
+</body>
+
 ### Identity
 -----------------------------
 
