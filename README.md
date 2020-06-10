@@ -81,10 +81,10 @@ or simply complete the contact form below:
   action="https://formspree.io/mjvaryer"
   method="POST"
 >
-   <label for="Name" class="fcf-label"> Your Name <input type="text" name="name">  </label>
-  <label for="Email" class="fcf-label"> Your Email <input type="email" name="_replyto">  </label>
-  <label for="Message" class="fcf-label">Your Message <textarea name="message"></textarea>  </label>
-  <input type="submit" value="Send">
+<li>   <label for="Name" class="fcf-label"> Your Name <input type="text" name="name">  </label> </li>  
+ <li>   <label for="Email" class="fcf-label"> Your Email <input type="email" name="_replyto">  </label> </li>  
+ <li>   <label for="Message" class="fcf-label">Your Message <textarea name="message"></textarea>  </label> </li>  
+ <li>   <input type="submit" value="Send"> </li>  
 </form>
     </div>
 </div>
