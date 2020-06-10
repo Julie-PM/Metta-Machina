@@ -95,7 +95,7 @@ Sign up to [Pop-Machina Network of Interest](https://pop-machina.eu/Network-of-I
 - participate in discussions on the various issues related to the maker movement and circular economy, including on the challenges that maker communities face and how to best overcome them;
 - participate in the learning workshop (will be organised later on in the project).
 *Or click to the image below to send an email
- <a href="mailto:pop-machina@kuleuven.be"><img src="joinnetwork.png"  alt="Join the network" width="300" height="200"></a>
+ <a href="mailto:pop-machina@kuleuven.be"><img src="joinnetwork.PNG"  alt="Join the network" width="300" height="200"></a>
 -----------------------------
 -----------------------------
  <img src="PMEU.PNG" alt="Pop-Machina Logo" width="650" height="150">
