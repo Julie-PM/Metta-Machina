@@ -47,7 +47,7 @@
 
 <img src="logo metta-machina.jpg" alt="Metta-Machina Logo">
 Here the logo of Metta-Machina - which can also be used to create a light projector<br>
-Download the .dfx file to lasercut the [logo](https://julie-pm.github.io/Metta-Machina/metta-machina.dxf)<br>
+Download the .dxf file to lasercut the [logo](https://julie-pm.github.io/Metta-Machina/metta-machina.dxf)<br>
 *[More information here](https://julie-pm.github.io/Metta-Machina/logodesign.md)* 
 
 > #### Projects created for the **[City of Leuven](https://pop-machina.eu/pilots/leuven)**
