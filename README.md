@@ -44,7 +44,7 @@
 > 
 > - Project 1: Design your own website *[More information here](https://julie-pm.github.io/Metta-Machina/)* 
 > - Project 2: Design your own logo 
-<img src="logo metta-machina.jped" alt="Metta-Machina Logo">
+<img src="logo metta-machina.jpg" alt="Metta-Machina Logo">
 
 Here the logo of Metta-Machina - which can also be used to create a light projector
 >*[More information here](https://julie-pm.github.io/Metta-Machina/logodesign)* 
