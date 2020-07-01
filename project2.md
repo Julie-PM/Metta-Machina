@@ -9,7 +9,7 @@ Create your own logo - for this project I decided to created a logo for Metta-Ma
 
 <img src="logo metta-machina.jpg" alt="Metta-Machina Logo">
 Here the logo of Metta-Machina - which can also be used to create a light projector<br>
-(Download the .dfx file to lasercut the logo <img src="logo metta-machina.dfx" alt="Metta-Machina Logo">)
+Download the .dxf file to lasercut the [logo](https://julie-pm.github.io/Metta-Machina/metta-machina.dxf)<br>
 
 #### The process
 -----------------------------
