@@ -83,6 +83,17 @@ You can download the [.stl file](https://julie-pm.github.io/Metta-Machina/mettam
 > #### Step 2 - Laser cut the logo
 
 > ##### In Wood
+I used piece of wood found in a trash. I guess it is leftover from a woodenfloor. <br>
+The first 3 trials failed as the wood composition wasn't known. I tried with different settings of the machine and dfferent width for the wood but the laser cutter wouldn't go through the whole piece of wood. **It is very important to know what is the composition of your material to be able to laser cut properly.
+
+<img src="Fail1.jpg" alt="Wood Fail" width="400"> <br>
+Here above picture of the failing attempts.
+
+I discovered that one side of the material was softer than the other and that the laser could go easily trhough it (way easier than from the other side).
+Finally I found a setting that could cut trhough the wood entirely. However you can notice some burned marks. The settings were not ideal for this kind of wood (But I had no sample left.)
+
+<img src="Goodwood.jpg" alt="Wood ok" width="400"> <br>
+Hare above the picture of the "finally" cut logo.
 
 > ##### In Plastic
 
