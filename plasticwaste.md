@@ -40,15 +40,16 @@ The Household is living in house with a small garden in Leuven, Belgium, and is 
 - a Hong Kong cat (short hair) with half a tail <br>
 The household is vegetarian (except for the cat), but cheese eaters (except for the cat) <br>
 
-
+<img src="pussy.jpeg" alt="Super Cat" width="400"> <br>
 A picture of the above-mentioned cat (named Pussy) in her favorite position (walking on the wall - everybody has a special skill) 
 
 ### Results (Tadam!)
 -----------------------------
-> #### Laser cut the logo
+Below are depcited all the pastic waste gathered from the household use over a week. 
 
 
-<img src="plasticchallenge.jpg" alt="Plastic Challenge" width="400"> <br>
+
+<img src="plasticchallenge.jpeg" alt="Plastic Challenge" width="400"> <br>
 
 
 
