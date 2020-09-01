@@ -34,7 +34,7 @@
 -----------------------------
 
 For this fourth project, plastic waste "consumed" in my household was collected during a week. <br>
-The experiment was conducted during one week in late August 2020
+The experiment was conducted during one week in late August 2020, with the weather being Belgium typical for summer (rainy and about 20°C).
 The Household is living in house with a small garden in Leuven, Belgium, and is constitute of 2 adults: <br>
 - a 30+ Swiss man unemployed (looking for a job opportunity in Belgium related to IT/Project management - we never know who read this website :-) )<br>
 - a 25+ French woman employed as PhD candidate and 4.xx month pregnant during the experiment<br>
