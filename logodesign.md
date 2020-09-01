@@ -84,12 +84,12 @@ You can download the [.stl file](https://julie-pm.github.io/Metta-Machina/mettam
 
 > ##### In Wood
 I used piece of wood found in a trash. I guess it is leftover from a woodenfloor. <br>
-The first 3 trials failed as the wood composition wasn't known. I tried with different settings of the machine and dfferent width for the wood but the laser cutter wouldn't go through the whole piece of wood. **It is very important to know what is the composition of your material to be able to laser cut properly.
+The first 3 trials failed as the wood composition wasn't known. I tried with different settings of the machine and dfferent width for the wood but the laser cutter wouldn't go through the whole piece of wood. **It is very important to know what is the composition of your material to be able to laser cut properly.**
 
 <img src="Fail1.jpg" alt="Wood Fail" width="400"> <br>
 Here above picture of 2 of 3 the failing attempts.
 
-I discovered that one side of the material was softer than the other and that the laser could go easily trhough it (way easier than from the other side).
+>I discovered that one side of the material was softer than the other and that the laser could go easily trhough it (way easier than from the other side).
 Finally I found a setting that could cut trhough the wood entirely. However you can notice some burned marks. The settings were not ideal for this kind of wood (But I had no sample left.)<br>
 Once cut, I figured out that the lower part of the logo was to thin and such very fragile. You can also notice that few letters didn't make it through as there were too thin and broke during the process.
 
@@ -97,6 +97,7 @@ Once cut, I figured out that the lower part of the logo was to thin and such ver
 Hare above the picture of the "finally" cut logo (left) and of another failing attempt (right).
 
 > ##### In Plastic
+I wanted to use plastic from my collection of "consumed plastic" (see [Project 4](plasticwaste.md))
 
 > #### Step 3 - 3D print the logo
 > To be coming soon
@@ -107,7 +108,7 @@ Hare above the picture of the "finally" cut logo (left) and of another failing a
 > ##### In Wood
 
 <img src="shadowwood.jpg" alt="Metta-Machina Logo" width="400"> <br>
-Here the logo of Metta-Machina laser cut in wood (see the nice shadow!)
+Here the logo of Metta-Machina laser cut in wood (see the shadow!)
 
 > ##### In Plastic
 
