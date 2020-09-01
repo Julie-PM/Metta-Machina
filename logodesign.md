@@ -100,7 +100,7 @@ Hare above the picture of the "finally" cut logo (left) and of another failing a
 I wanted to use plastic from my collection of "consumed plastic" (see [Project 4](plasticwaste.md)), however, all trials spectaculary failed. All the plastic tested burnt and the process had to be interupt before its full completion.<br>
 The reasons for the failures are the same as above. The exact composition of the plastic was not found or not macthing with the available settings of the machine. Knowing the exact composition of the material to be laser cut is key to properly achieve a laser cutting. 
 
-<img src="Fail2.jpg" alt="Plastic Fail" width="400"> <br>
+<img src="failed plastic.jpg" alt="Plastic Fail" width="400"> <br>
 Here above picture of the "plastic" failing attempts.
 
 >From the lesson learnt with the wood success (?) I delete the "open" circular part to allow a full half circle to join the screw and the screw driver. Using a piece of plexiglass found in the trash bin of the FabLab, I fiannly managed to laser cut the Metta-Machina Logo :-)
