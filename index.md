@@ -43,7 +43,7 @@
 > #### Projects created during the **[Pop-Machina Academy](https://pop-machina.eu/academy)**
 > 
 > - Project 1: Design your own website *[More information here](https://julie-pm.github.io/Metta-Machina/)* 
-> - Project 2: Design your own logo 
+> - Project 2: Design your own logo *[More information here](logodesign.md)*
 > - Project 3: Create your own bioplastic *[More information here](bioplastic.md)* 
 
 
