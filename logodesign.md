@@ -2,8 +2,7 @@
       <div class="py-4 px-3 mb-4 bg-light">
         <div class="media d-flex align-items-center">
           <div class="media-body">
-            <h4 class="m-0">Metta-Machina - Project 2: Logo Design</h4>
-            <p class="font-weight-light text-muted mb-0">Maker Champion Leuven #5</p>
+            <h4 class="m-0">Project 2 : Logo Design</h4>
           </div>
         </div>
       </div>
@@ -24,8 +23,8 @@
           </a>
         </li>
 	   <li class="nav-item">
-          <a href="### Contact" class="nav-link text-dark font-italic">
-            <i class="fa fa-address-card mr-3 text-primary fa-fw"></i> Contact
+          <a href="### Join the **[Pop-Machina](https://pop-machina.eu/)** Network of Interest" class="nav-link text-dark font-italic">
+            <i class="fa fa-address-card mr-3 text-primary fa-fw"></i> Join Pop-Machina
           </a>
         </li>
            <li class="nav-item">
@@ -47,13 +46,23 @@ Here you find the most achieved version of the Metta-Machina logo (can also be u
 -----------------------------
 
 > #### Step 1 - Create the Metta-Machina Logo
-> 
-> 
+> ##### In Power Point
+The Logo was firstly design using the software "power point". The software was used due to is friendly userness and the non-need for previous background/knowledge.
+It took me about 30min to design the logo.
+First, I choosed a picture of a screw and of a screw driver from internet.
+Second, I copied pasted them in the powerpoint application and deleted the parts I didn't want.
+Third, I created a circular band to join the two tools.
+Fourth, I added the "Metta-Machina" text (using the circular option).
+Last but not least I choosed to all colored them in black.
+The logo was saved as .jpg.
 
 <img src="logo metta-machina.jpg" alt="Metta-Machina Logo">
 Here the logo of Metta-Machina - which can also be used to create a light projector<br>
+
+> ##### In Inkscape
+
 Download the .dxf file to lasercut the [logo](https://julie-pm.github.io/Metta-Machina/metta-machina.dxf)<br>
-*[More information here](project2.md )* 
+
 
 > #### Step 2 - Laser cut the logo
 > 
@@ -62,6 +71,8 @@ Download the .dxf file to lasercut the [logo](https://julie-pm.github.io/Metta-M
 > #### Step 3 - 3D print the logo
 > 
 
+### Results (Tadam!)
+-----------------------------
 
 #### Join the **[Pop-Machina](https://pop-machina.eu/)** Network of Interest
 The so-called Pop-Machina Network of Interest aims to be such a positive community of change. It aspires to connect people from all over Europe and beyond to one another, keep them informed of innovations that hold a great potential to change our production and consumption patterns for the better as well as provide citizens with a platform where they can voice their opinions and ideas as well. At its core, Pop-Machina Network of Interest brings together all the enthusiasts that want to follow the progress of the project, stay up to date with the related topics and trends more broadly and contribute to the discussions on the various issues related to the maker movement and circular economy, including on the challenges and opportunities of circular maker communities.
