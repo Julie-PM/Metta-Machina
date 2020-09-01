@@ -45,6 +45,7 @@
 > - Project 1: Design your own website *[More information here](https://julie-pm.github.io/Metta-Machina/)* 
 > - Project 2: Design your own logo *[More information here](logodesign.md)*
 > - Project 3: Create your own bioplastic *[More information here](bioplastic.md)* 
+> - Project 4: Gather all the plastic "consumed" at home for a week *[More information here](plasticwaste.md)* 
 
 
 > #### Projects created for the **[City of Leuven](https://pop-machina.eu/pilots/leuven)**
