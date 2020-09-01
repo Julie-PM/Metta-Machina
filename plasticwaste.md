@@ -33,24 +33,24 @@
 ### Descriptif
 -----------------------------
 
-For this second project, a logo had to be designed, laser cut, conceptualized in 3D modeling and modelled.
-Here you find the most achieved version of the Metta-Machina logo (can also be used as a small version of a prject light ^^)
+For this fourth project, plastic waste "consumed" in my household was collected during a week. <br>
+The Household is living in house with a small garden in Leuven, Belgium, and is constitute of 2 adults: <br>
+- a 30+ Swiss man unemployed (looking for a job opportunity in Belgium related to IT/Project management - we never know who read this website :-) )<br>
+- a 20+ French woman employed as PhD candidate and 4.xx month pregnant during the experiment<br>
+- a Hong Kong cat (short hair) with half a tail <br>
+The household is vegetarian (except for the cat), but cheese eaters (except for the cat) <br>
+
+
+A picture of the above-mentioned cat (named Pussy) in her favorite position (walking on the wall - everybody has a special skill) 
 
 ### Results (Tadam!)
 -----------------------------
 > #### Laser cut the logo
-> ##### In Wood
 
-<img src="shadowwood.jpg" alt="Metta-Machina Logo" width="400"> <br>
-Here the logo of Metta-Machina laser cut in wood (see the nice shadow!)
 
-> ##### In Plastic
+<img src="plasticchallenge.jpg" alt="Plastic Challenge" width="400"> <br>
 
-<img src="shadowplastic.jpg" alt="Metta-Machina Logo" width="400"> <br>
-Here the logo of Metta-Machina laser cut in plexi (see the nice shadow!)
 
-> #### 3D print the logo
-To be coming soon
 
 #### Join the **[Pop-Machina](https://pop-machina.eu/)** Network of Interest
 The so-called Pop-Machina Network of Interest aims to be such a positive community of change. It aspires to connect people from all over Europe and beyond to one another, keep them informed of innovations that hold a great potential to change our production and consumption patterns for the better as well as provide citizens with a platform where they can voice their opinions and ideas as well. At its core, Pop-Machina Network of Interest brings together all the enthusiasts that want to follow the progress of the project, stay up to date with the related topics and trends more broadly and contribute to the discussions on the various issues related to the maker movement and circular economy, including on the challenges and opportunities of circular maker communities.
