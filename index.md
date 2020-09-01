@@ -44,8 +44,9 @@
 > 
 > - Project 1: Design your own website *[More information here](https://julie-pm.github.io/Metta-Machina/)* 
 > - Project 2: Design your own logo 
-> - Project 3: Create your own bioplastic *[More information here](https://julie-pm.github.io/Metta-Machina/bioplastic.md)* 
-*[More information here](https://julie-pm.github.io/Metta-Machina/bioplastic/)* 
+> - Project 3: Create your own bioplastic *[More information here](bioplastic.md)* 
+
+
 <img src="logo metta-machina.jpg" alt="Metta-Machina Logo">
 Here the logo of Metta-Machina - which can also be used to create a light projector<br>
 Download the .dxf file to lasercut the [logo](https://julie-pm.github.io/Metta-Machina/metta-machina.dxf)<br>
