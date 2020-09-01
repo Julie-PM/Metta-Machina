@@ -48,13 +48,13 @@ Here you find the most achieved version of the Metta-Machina logo (can also be u
 > #### Step 1 - Create the Metta-Machina Logo
 > ##### In Power Point
 The Logo was firstly design using the software "power point". The software was used due to is friendly userness and the non-need for previous background/knowledge.
-It took me about 30min to design the logo.
-First, I choosed a picture of a screw and of a screw driver from internet.
-Second, I copied pasted them in the powerpoint application and deleted the parts I didn't want.
-Third, I created a circular band to join the two tools.
-Fourth, I added the "Metta-Machina" text (using the circular option).
-Last but not least I choosed to all colored them in black.
-The logo was saved as .jpg.
+It took me about 30min to design the logo.<br>
+First, I choosed a picture of a screw and of a screw driver from internet.<br>
+Second, I copied pasted them in the powerpoint application and deleted the parts I didn't want.<br>
+Third, I created a circular band to join the two tools.<br>
+Fourth, I added the "Metta-Machina" text (using the circular option).<br>
+Last but not least I choosed to all colored them in black.<br>
+The logo was saved as .jpg.<br>
 
 <img src="logo metta-machina.jpg" alt="Metta-Machina Logo">
 Here the logo of Metta-Machina - which can also be used to create a light projector<br>
@@ -62,11 +62,11 @@ Here the logo of Metta-Machina - which can also be used to create a light projec
 > ##### In Inkscape
 Now that the logo is created, it needs to be in a compatible format to be laser cut.
 I used the free software Inkscape to convert my logo into a lasercut comptatible format (.dxf).
-I choose Inkscape because this software is free, handy, and tutorials can easily be found online.
-To convert my file I used the following tutorial :
+I choose Inkscape because this software is free, handy, and tutorials can easily be found online.<br>
+To convert my file I used [this tutorial](https://www.youtube.com/watch?v=mYkLix7UT44).
+I had to remove the dash as it will be lost during the laser cutting.
 
-
-Download the .dxf file to lasercut the [logo](https://julie-pm.github.io/Metta-Machina/metta-machina.dxf)<br>
+You can download the .dxf file to lasercut the [Metta-Machina logo](https://julie-pm.github.io/Metta-Machina/metta-machina.dxf)<br>
 
 
 > #### Step 2 - Laser cut the logo
