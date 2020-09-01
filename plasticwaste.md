@@ -34,9 +34,10 @@
 -----------------------------
 
 For this fourth project, plastic waste "consumed" in my household was collected during a week. <br>
+The experiment was conducted during one week in late August 2020
 The Household is living in house with a small garden in Leuven, Belgium, and is constitute of 2 adults: <br>
 - a 30+ Swiss man unemployed (looking for a job opportunity in Belgium related to IT/Project management - we never know who read this website :-) )<br>
-- a 20+ French woman employed as PhD candidate and 4.xx month pregnant during the experiment<br>
+- a 25+ French woman employed as PhD candidate and 4.xx month pregnant during the experiment<br>
 - a Hong Kong cat (short hair) with half a tail <br>
 The household is vegetarian (except for the cat), but cheese eaters (except for the cat) <br>
 
@@ -45,12 +46,18 @@ A picture of the above-mentioned cat (named Pussy) in her favorite position (wal
 
 ### Results (Tadam!)
 -----------------------------
-Below are depcited all the pastic waste gathered from the household use over a week. 
-
+Below are depicted all the pastic waste gathered from the household use over a week. <br>
 
 
 <img src="plasticchallenge.jpeg" alt="Plastic Challenge" width="400"> <br>
 
+- The most common plastic is from diary product (on the top left). This could hardly be reduced as the local diary shop sells only raw milk diary product which are forbidden for pregnant women ... OK, the household could reduce its diary consumption... but then from where to get B12 vitamins in a vegetarian diet? <br>
+- The second most common are vegetable packaging (bouh... shame!) (from top right: leak, through the midle: persil, and bottom left: tomatoes). This plastic waste could easily be reduced by buying from the farm - unfortunately the bio shop here sells mainly non-local product, so the household has opted for organic local products, but sometimes packaged in plastic...  <br>
+Can also be found: 
+- 2 bottles of orange juice (Top center). It could be avoid buy buying oranges and process it at home into orange juice (but what about the lost from the orange? I guess the efficiency of Home juice VS industrial would need to be compared) <br>
+- a pack of udon. The recipe is on the way but the results are so far very disappointing. <br>
+- a packaging of flower pot (It is a present). Next time I will ask to bring it without packaging. <br>
+- a box of cat food (top center). After multi discussion with the cat she disagrees with changing her food. We compromised by buying a bigger pack of food to reduce - somehow reducing the monthly amount of watse consumed.
 
 
 #### Join the **[Pop-Machina](https://pop-machina.eu/)** Network of Interest
