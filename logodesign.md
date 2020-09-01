@@ -93,12 +93,14 @@ You can download the [.stl file](https://julie-pm.github.io/Metta-Machina/mettam
 -----------------------------
 > #### Laser cut the logo
 > ##### In Wood
-<img src="shadowwood.jpg" alt="Metta-Machina Logo">
-Here the logo of Metta-Machina laser cut in wood
+
+<img src="shadowwood.jpg" alt="Metta-Machina Logo" width="150" height="250">
+Here the logo of Metta-Machina laser cut in wood (see the nice shadow!)
 
 > ##### In Plastic
-<img src="shadowplastic.jpg" alt="Metta-Machina Logo">
-Here the logo of Metta-Machina laser cut in plexi
+
+<img src="shadowplastic.jpg" alt="Metta-Machina Logo" width="200" height="250">
+Here the logo of Metta-Machina laser cut in plexi (see the nice shadow!)
 
 > #### 3D print the logo
 To be coming soon
