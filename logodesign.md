@@ -53,7 +53,7 @@ First, I choosed a picture of a screw and of a screw driver from internet.<br>
 Second, I copied pasted them in the powerpoint application and deleted the parts I didn't want.<br>
 Third, I created a circular band to join the two tools.<br>
 Fourth, I added the "Metta-Machina" text (using the circular option).<br>
-Last but not least I choosed to all colored them in black.<br>
+Last but not least, I choose to colore all parts of my logo in black.<br>
 The logo was saved as .jpg.<br>
 
 <img src="logo metta-machina.jpg" alt="Metta-Machina Logo">
@@ -63,15 +63,19 @@ Here the logo of Metta-Machina - which can also be used to create a light projec
 Now that the logo is created, it needs to be in a compatible format to be laser cut.
 I used the free software Inkscape to convert my logo into a lasercut comptatible format (.dxf).
 I choose Inkscape because this software is free, handy, and tutorials can easily be found online.<br>
-To convert my file I used [this tutorial](https://www.youtube.com/watch?v=mYkLix7UT44).
-I had to remove the dash as it will be lost during the laser cutting.
+To convert my file I used [this tutorial](https://www.youtube.com/watch?v=mYkLix7UT44). <br>
+An important step (not explained in this tutorial) is to be sure that the part you want to laser cut are in the good color. With the laser cut I used, the part to be cut had to be in full red. 
+I also had to remove the dash as it will be lost during the laser cutting.
 
-You can download the .dxf file to lasercut the [Metta-Machina logo](https://julie-pm.github.io/Metta-Machina/metta-machina.dxf)<br>
+You can download the [.dxf file](https://julie-pm.github.io/Metta-Machina/metta-machina.dxf) to lasercut the Metta-Machina logo.<br>
 
+> ##### In SketchUp
+https://www.youtube.com/watch?v=0JSkczTHAh8
 
 > #### Step 2 - Laser cut the logo
-> 
->
+> ##### In Wood
+
+> ##### In Plastic
 
 > #### Step 3 - 3D print the logo
 > 
