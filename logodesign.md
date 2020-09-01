@@ -28,7 +28,7 @@
           </a>
         </li>
            <li class="nav-item">
-          <a href="(index.md)" class="nav-link text-dark font-italic">
+          <a href="index.md" class="nav-link text-dark font-italic">
             <i class="fa fa-address-card mr-3 text-primary fa-fw"></i> Go back to Home page
           </a>
         </li>
@@ -75,7 +75,7 @@ Now that the logo is in 2D it has to be converted in a 3D compatible format.
 I used SkechUp to do so, as I add previous knowledge on this software. SketchUp is a free tool which also provide the possibility to work online (so no need to download any program). <br>
 Once the .dxf file imported to SketchUp, you have to firstly make the imported file as a surface, then to delete the part that should not be 3D printed (the holes) and finally to extrude the surface you want as 3D. The file is then ready to be 3D printed.  You can also use one of the availale tutorial such as [this tutorial](https://www.youtube.com/watch?v=0JSkczTHAh8)
 
-<img src="logo mettamachina3D.png" alt="Metta-Machina Logo">
+<img src="mettamachina3D.png" alt="Metta-Machina Logo">
 Here the 3D logo of Metta-Machina with different views
 
 You can download the [.stl file](https://julie-pm.github.io/Metta-Machina/mettamachina3D.stl) to 3D print the Metta-Machina logo.<br>
