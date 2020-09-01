@@ -57,7 +57,7 @@ Fourth, I added the "Metta-Machina" text (using the circular option).<br>
 Last but not least, I choose to colore all parts of my logo in black.<br>
 The logo was saved as .jpg.<br>
 
-<img src="logo metta-machina.jpg" alt="Metta-Machina Logo">
+<img src="logo metta-machina.jpg" alt="Metta-Machina Logo" width="400"> <br>
 Here the logo of Metta-Machina - which can also be used to create a light projector<br>
 
 > ##### In Inkscape
@@ -75,7 +75,7 @@ Now that the logo is in 2D it has to be converted in a 3D compatible format.
 I used SkechUp to do so, as I add previous knowledge on this software. SketchUp is a free tool which also provide the possibility to work online (so no need to download any program). <br>
 Once the .dxf file imported to SketchUp, you have to firstly make the imported file as a surface, then to delete the part that should not be 3D printed (the holes) and finally to extrude the surface you want as 3D. The file is then ready to be 3D printed.  You can also use one of the availale tutorial such as [this tutorial](https://www.youtube.com/watch?v=0JSkczTHAh8)
 
-<img src="mettamachina3D.png" alt="Metta-Machina Logo">
+<img src="mettamachina3D.png" alt="Metta-Machina Logo" width="400"> <br>
 Here the 3D logo of Metta-Machina with different views
 
 You can download the [.stl file](https://julie-pm.github.io/Metta-Machina/mettamachina3D.stl) to 3D print the Metta-Machina logo.<br>
@@ -94,12 +94,12 @@ You can download the [.stl file](https://julie-pm.github.io/Metta-Machina/mettam
 > #### Laser cut the logo
 > ##### In Wood
 
-<img src="shadowwood.jpg" alt="Metta-Machina Logo" width="150" height="250">
+<img src="shadowwood.jpg" alt="Metta-Machina Logo" width="400"> <br>
 Here the logo of Metta-Machina laser cut in wood (see the nice shadow!)
 
 > ##### In Plastic
 
-<img src="shadowplastic.jpg" alt="Metta-Machina Logo" width="200" height="250">
+<img src="shadowplastic.jpg" alt="Metta-Machina Logo" width="400"> <br>
 Here the logo of Metta-Machina laser cut in plexi (see the nice shadow!)
 
 > #### 3D print the logo
