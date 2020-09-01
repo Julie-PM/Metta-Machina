@@ -47,7 +47,7 @@ Here you find the most achieved version of the Metta-Machina logo (can also be u
 
 > #### Step 1 - Create the Metta-Machina Logo
 
-> - In Power Point
+> ##### In Power Point
 The Logo was firstly design using the software "power point". The software was used due to is friendly userness and the non-need for previous background/knowledge.
 It took me about 30min to design the logo.<br>
 First, I choosed a picture of a screw and of a screw driver from internet.<br>
@@ -60,7 +60,7 @@ The logo was saved as .jpg.<br>
 <img src="logo metta-machina.jpg" alt="Metta-Machina Logo">
 Here the logo of Metta-Machina - which can also be used to create a light projector<br>
 
-> - In Inkscape
+> ##### In Inkscape
 Now that the logo is created, it needs to be in a compatible format to be laser cut.
 I used the free software Inkscape to convert my logo into a lasercut comptatible format (.dxf).
 I choose Inkscape because this software is free, handy, and tutorials can easily be found online.<br>
@@ -70,7 +70,7 @@ I also had to remove the dash as it will be lost during the laser cutting.
 
 You can download the [.dxf file](https://julie-pm.github.io/Metta-Machina/metta-machina.dxf) to lasercut the Metta-Machina logo.<br>
 
-> - In SketchUp
+> ##### In SketchUp
 Now that the logo is in 2D it has to be converted in a 3D compatible format.
 I used SkechUp to do so, as I add previous knowledge on this software. SketchUp is a free tool which also provide the possibility to work online (so no need to download any program). <br>
 Once the .dxf file imported to SketchUp, you have to firstly make the imported file as a surface, then to delete the part that should not be 3D printed (the holes) and finally to extrude the surface you want as 3D. The file is then ready to be 3D printed.  You can also use one of the availale tutorial such as [this tutorial](https://www.youtube.com/watch?v=0JSkczTHAh8)
@@ -82,9 +82,9 @@ You can download the [.stl file](https://julie-pm.github.io/Metta-Machina/mettam
 
 > #### Step 2 - Laser cut the logo
 
-> - In Wood
+> ##### In Wood
 
-> - In Plastic
+> ##### In Plastic
 
 > #### Step 3 - 3D print the logo
 > 
