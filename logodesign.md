@@ -106,7 +106,7 @@ Here above picture of the "plastic" failing attempts.
 >From the lesson learnt with the wood success (?) I delete the "open" circular part to allow a full half circle to join the screw and the screw driver. Using a piece of plexiglass found in the trash bin of the FabLab, I fiannly managed to laser cut the Metta-Machina Logo :-)
 
 <img src="goodplastic.jpg" alt="Plastic sucess" width="400"> <br>
-Here above picture of the loggo successfully laser cut in plexiglass (you notice the thick circular part at the bottom of the logo). 
+Here above picture of the logo successfully laser cut in plexiglass (you notice the thick circular part at the bottom of the logo, you can also notice some burnt areas ue to imperfect settings). 
 
 
 > #### Step 3 - 3D print the logo
