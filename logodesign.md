@@ -60,6 +60,11 @@ The logo was saved as .jpg.
 Here the logo of Metta-Machina - which can also be used to create a light projector<br>
 
 > ##### In Inkscape
+Now that the logo is created, it needs to be in a compatible format to be laser cut.
+I used the free software Inkscape to convert my logo into a lasercut comptatible format (.dxf).
+I choose Inkscape because this software is free, handy, and tutorials can easily be found online.
+To convert my file I used the following tutorial :
+
 
 Download the .dxf file to lasercut the [logo](https://julie-pm.github.io/Metta-Machina/metta-machina.dxf)<br>
 
