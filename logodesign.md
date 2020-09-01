@@ -91,6 +91,17 @@ You can download the [.stl file](https://julie-pm.github.io/Metta-Machina/mettam
 
 ### Results (Tadam!)
 -----------------------------
+> #### Laser cut the logo
+> ##### In Wood
+<img src="shadowwood.jpeg" alt="Metta-Machina Logo">
+Here the logo of Metta-Machina laser cut in wood
+
+> ##### In Plastic
+<img src="shadowplastic.jpeg" alt="Metta-Machina Logo">
+Here the logo of Metta-Machina laser cut in plexi
+
+> #### 3D print the logo
+To be coming soon
 
 #### Join the **[Pop-Machina](https://pop-machina.eu/)** Network of Interest
 The so-called Pop-Machina Network of Interest aims to be such a positive community of change. It aspires to connect people from all over Europe and beyond to one another, keep them informed of innovations that hold a great potential to change our production and consumption patterns for the better as well as provide citizens with a platform where they can voice their opinions and ideas as well. At its core, Pop-Machina Network of Interest brings together all the enthusiasts that want to follow the progress of the project, stay up to date with the related topics and trends more broadly and contribute to the discussions on the various issues related to the maker movement and circular economy, including on the challenges and opportunities of circular maker communities.
