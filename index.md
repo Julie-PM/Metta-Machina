@@ -47,11 +47,6 @@
 > - Project 3: Create your own bioplastic *[More information here](bioplastic.md)* 
 
 
-<img src="logo metta-machina.jpg" alt="Metta-Machina Logo">
-Here the logo of Metta-Machina - which can also be used to create a light projector<br>
-Download the .dxf file to lasercut the [logo](https://julie-pm.github.io/Metta-Machina/metta-machina.dxf)<br>
-*[More information here](project2.md )* 
-
 > #### Projects created for the **[City of Leuven](https://pop-machina.eu/pilots/leuven)**
 > 
 > - Project 1 (Coming soon)
@@ -63,7 +58,9 @@ Download the .dxf file to lasercut the [logo](https://julie-pm.github.io/Metta-M
 
 ### Pop-Machina related publications
 -----------------------------
-- Pop-Machina: The breakthrough of the circular maker movement in Europe” (with K. Bachus), 2020, OpenAccessGovernment ISSN 2516-3817 April 2020 (p450-451). [(Available online)](https://www.openaccessgovernment.org/pop-machina-circular-maker-movement-in-europe/84803/)
+- Pop-Machina: The breakthrough of the circular maker movement in Europe” (with K. Bachus), 2020, OpenAccessGovernment ISSN 2516-3817 April 2020 (p450-451). [(Available online)](https://www.openaccessgovernment.org/pop-machina-circular-maker-movement-in-europe/84803/) <br>
+- Mapping the circular maker movement: from a literature review to a circular maker passport (with K. Bachus), 2020, Leuven: Pop-Machina project 821479 – H2020 (Deliverable 2.1) . [(Available online)](https://pop-machina.eu/resources/downloads/D2.1)<br>
+
 
 ### Contact
 -----------------------------
