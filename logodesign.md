@@ -97,7 +97,11 @@ Once cut, I figured out that the lower part of the logo was to thin and such ver
 Hare above the picture of the "finally" cut logo (left) and of another failing attempt (right).
 
 > ##### In Plastic
-I wanted to use plastic from my collection of "consumed plastic" (see [Project 4](plasticwaste.md))
+I wanted to use plastic from my collection of "consumed plastic" (see [Project 4](plasticwaste.md)), however, all trials spectaculary failed. All the plastic tested burnt and the process had to be interupt before its full completion.<br>
+The reasons for the failures are the same as above. The exact composition of the plastic was not found or not macthing with the available settings of the machine. Knowing the exact composition of the material to be laser cut is key to properly achieve a laser cutting. 
+
+<img src="Fail2.jpg" alt="Plastic Fail" width="400"> <br>
+Here above picture of the "plastic" failing attempts.
 
 > #### Step 3 - 3D print the logo
 > To be coming soon
