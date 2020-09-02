@@ -28,7 +28,7 @@
           </a>
         </li>
            <li class="nav-item">
-          <a href="index.md" class="nav-link text-dark font-italic">
+          <a href="https://julie-pm.github.io/Metta-Machina/" class="nav-link text-dark font-italic">
             <i class="fa fa-address-card mr-3 text-primary fa-fw"></i> Go back to Home page
           </a>
         </li>
