@@ -13,13 +13,17 @@
           </a>
         </li>
      <li class="nav-item">
-          <a href="### Steps" class="nav-link text-dark font-italic">
-            <i class="fa fa-address-card mr-3 text-primary fa-fw"></i> Steps
+          <a href="#### People" class="nav-link text-dark font-italic">
+            <i class="fa fa-address-card mr-3 text-primary fa-fw"></i> Inspiration - People
           </a>
         </li>
 	 <li class="nav-item">
-          <a href="### Results" class="nav-link text-dark font-italic">
-            <i class="fa fa-address-card mr-3 text-primary fa-fw"></i> Results
+          <a href="#### Concepts" class="nav-link text-dark font-italic">
+            <i class="fa fa-address-card mr-3 text-primary fa-fw"></i> Inspiration - Concepts
+          </a>
+        </li>	       <li class="nav-item">
+          <a href="#### Methods" class="nav-link text-dark font-italic">
+            <i class="fa fa-address-card mr-3 text-primary fa-fw"></i> Inspiration - Methods
           </a>
         </li>
 	   <li class="nav-item">
