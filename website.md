@@ -59,6 +59,11 @@ Here you find the detailled process which has lead to this website.
 ### Results (Tadam!)
 -----------------------------
 
+You can access my website home page on github [here](https://julie-pm.github.io/Metta-Machina/)<br>
+Please comment and share!
+
+<br>
+<br>
 
 
 
