@@ -42,7 +42,7 @@
 
 > #### Projects created during the **[Pop-Machina Academy](https://pop-machina.eu/academy)**
 > 
-> - Project00: Document what you have learnt from the Pop-Machina Academy Edition 2020 *[More information here](docPMA2020.md)* 
+> - Project 00: Document what you have learnt from the Pop-Machina Academy Edition 2020 *[More information here](docPMA2020.md)* 
 > - Project 1: Design your own website *[More information here](https://julie-pm.github.io/Metta-Machina/)* 
 > - Project 2: Design your own logo *[More information here](logodesign.md)*
 > - Project 3: Create your own bioplastic *[More information here](bioplastic.md)* 
