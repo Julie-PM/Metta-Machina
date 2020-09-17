@@ -55,8 +55,12 @@ Here you find the most achieved version of the Mold (and their respective casts)
 > #### Step 2 - Cast your mold
 
 > ##### With chocolate (What else!)
-
-
+ I used melted chocolate to cast the mold. It was very easy to fill the gelatine mold. <br>
+ I needed some help to open the AAM molds to properly filled them with chocolate. <br>
+ I put all in the fridge for a full night.
+ The results are astonishing for all molds.
+ 
+ <img src="final mold and casts.jpg" alt="final results mold and casts" width="100">
 
 > #### Step 3 - Create bioplastic film
 
@@ -81,10 +85,15 @@ I will have to do other trials.
 The two Agar Agar & Milk mols are the one used to cast the shells.
 The results are fantastic! A lot of details. It was easy to remove the cast from the mold. The molds can definitely be reused. While the mold are not very tasty they are fully eatable. <br>
 
-<img src="final mold and casts.jpeg" alt="final results mold and casts" width="100">
+The details of the chocolate sheels are great. They look (and taste) yummy!
+<img src="details sheel choco.jpg" alt="final results mold and casts" width="100">
+<img src="details sheel choco2.jpg" alt="final results mold and casts" width="100">
 
 > #### Gelatine mold
-The gelatine molds are the one with the rabits and the coin. The results are also satisfying. It was a little bit harder to remove the cast from the mold without damaging the mold itself. The molds are tastier but more fragile. 
+The gelatine molds are the one with the rabits and the coin. The results are also satisfying. It was a little bit harder to remove the cast from the mold without damaging the mold itself. The molds are tastier but more fragile. <br>
+
+You can see the details in the coin.
+<img src="chocolate coin.jpg" alt="final results mold and casts" width="100">
 
 > #### Bioplastic film - Failed
 Here the deadjellyfish like biofilm:
