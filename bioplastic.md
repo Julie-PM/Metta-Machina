@@ -47,9 +47,21 @@ Here you find the most achieved version of the Mold (and their respective casts)
 
 > #### Step 1 - Create a mold
 
-> ##### With Agar Agar and Milk
-
 > ##### With Gelatine
+To do the gelatine molds I followed the recipe below from this [website](https://wongsathon.gitlab.io/wongsaton.choonhavan/fabacademy/15.Molding.html) but I added some honney as well, based o the experience of [Ching-Chia Renn](https://chingchiarenn.gitlab.io/chingchia.renn/fab15.html) 
+
+10 g Gelatine <br>
+125 ml water <br>
+1 table spoon honey  <br>
+
+> ##### With Agar Agar and Milk
+To do the gelatine molds I followed the recipe below from this [website](https://andrea_bertran.gitlab.io/andrea.bertran/2020.05.20_Molding%20and%20casting.html)
+2 g agar agar <br>
+50 mL water <br>
+1OO mL milk <br>
+
+I mixed the agar agar with hot water (not boiling) and miwed until the agar agar was fully disolved. I added the milk and mixed until all components fully mixed. 
+
 
 
 > #### Step 2 - Cast your mold
