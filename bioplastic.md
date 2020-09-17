@@ -47,7 +47,7 @@ Here you find the most achieved version of the Mold (and their respective casts)
 
 > #### Step 1 - Create a mold
 
-> ##### With Agar Agar
+> ##### With Agar Agar and Milk
 
 > ##### With Gelatine
 
@@ -60,15 +60,28 @@ Here you find the most achieved version of the Mold (and their respective casts)
 
 > #### Step 3 - Create bioplastic film
 
-> ##### Just biofilm
+> ##### Biofilm with threads
+I used this [video tutorial](https://www.youtube.com/watch?v=5M_eDLyfzp8&ab_channel=GreenPlastics) to make my first bioplastic film. 
+While the recipe is very easy - it was a true failure. <br>
+Ingredients needed: <br>
+1 table spoon starch <br>
+4 table spoons water <br>
+1 tea spoon glycerine<br>
+1 tea spoon hite vinegar (I used cleaning vinegar) <br>
 
-> ##### With threads
-
+All ingredients have to mixed cold (with a spoon made out of silicon it is better) and then put on a stove and slowly heated until the mixure become transparent. Then the mix is poored into a silicon plate or mold (I used a cake mold). <br>
+I added some threads to improve and strenhten the structure of my biofilm. <br>
+After putting in the fridge for few hours, the results wasn't satisfying at all. It looks like a deadjelly fish. The film was easily breakable (by its own weight).<br>
+I will have to do other trials.
 
 ### Results (Tadam!)
 -----------------------------
 
-To be coming soon
+> #### Agar Agar and Milk mold
+
+> #### Gelatine mold
+
+> #### Bioplastic film - Failed
 
 
 #### Join the **[Pop-Machina](https://pop-machina.eu/)** Network of Interest
