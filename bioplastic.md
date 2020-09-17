@@ -78,11 +78,19 @@ I will have to do other trials.
 -----------------------------
 
 > #### Agar Agar and Milk mold
+The two Agar Agar & Milk mols are the one used to cast the shells.
+The results are fantastic! A lot of details. It was easy to remove the cast from the mold. The molds can definitely be reused. While the mold are not very tasty they are fully eatable. <br>
+
+<img src="final mold and casts.jpeg" alt="final results mold and casts" width="100">
 
 > #### Gelatine mold
+The gelatine molds are the one with the rabits and the coin. The results are also satisfying. It was a little bit harder to remove the cast from the mold without damaging the mold itself. The molds are tastier but more fragile. 
 
 > #### Bioplastic film - Failed
-
+Here the deadjellyfish like biofilm:
+<img src="biofilm (1).jpeg" alt="Biofilm1" width="100">
+<img src="biofilm (2).jpeg" alt="Biofilm2" width="100">
+<img src="biofilm (3).jpeg" alt="Biofilm3" width="100">
 
 #### Join the **[Pop-Machina](https://pop-machina.eu/)** Network of Interest
 The so-called Pop-Machina Network of Interest aims to be such a positive community of change. It aspires to connect people from all over Europe and beyond to one another, keep them informed of innovations that hold a great potential to change our production and consumption patterns for the better as well as provide citizens with a platform where they can voice their opinions and ideas as well. At its core, Pop-Machina Network of Interest brings together all the enthusiasts that want to follow the progress of the project, stay up to date with the related topics and trends more broadly and contribute to the discussions on the various issues related to the maker movement and circular economy, including on the challenges and opportunities of circular maker communities.
