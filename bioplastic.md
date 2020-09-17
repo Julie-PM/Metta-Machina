@@ -98,8 +98,8 @@ The two Agar Agar & Milk mols are the one used to cast the shells.
 The results are fantastic! A lot of details. It was easy to remove the cast from the mold. The molds can definitely be reused. While the mold are not very tasty they are fully eatable. <br>
 
 The details of the chocolate shells are great. They look (and taste) yummy!
-<img src="details sheel choco.jpg" alt="final results choco shell1" width="100">
-<img src="details shell choco2.jpg" alt="final results choco shell1" width="100">
+<img src="details shells choco.jpg" alt="final results choco shell1" width="100">
+<img src="details sheel choco2.jpg" alt="final results choco shell2" width="100">
 
 > #### Gelatine mold
 The gelatine molds are the one with the rabits and the coin. The results are also satisfying. It was a little bit harder to remove the cast from the mold without damaging the mold itself. The molds are tastier but more fragile. <br>
