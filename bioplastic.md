@@ -98,7 +98,7 @@ The two Agar Agar & Milk mols are the one used to cast the shells.
 The results are fantastic! A lot of details. It was easy to remove the cast from the mold. The molds can definitely be reused. While the mold are not very tasty they are fully eatable. <br>
 
 The details of the chocolate shells are great. They look (and taste) yummy!
-<img src="details shells choco.jpg" alt="final results choco shell1" width="100">
+<img src="details sheel choco.jpg" alt="final results choco shell1" width="100">
 <img src="details shell choco2.jpg" alt="final results choco shell1" width="100">
 
 > #### Gelatine mold
